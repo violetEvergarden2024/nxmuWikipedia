@@ -1,0 +1,5 @@
+site_name: 宁夏医科大学Wikipedia
+theme: material   # 可选：mkdocs, readthedocs, material 等
+nav:
+  - 首页: index.md
+  - 指南: guide.md
