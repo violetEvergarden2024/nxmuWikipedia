@@ -2,4 +2,25 @@ site_name: 宁夏医科大学Wikipedia
 theme: material   # 可选：mkdocs, readthedocs, material 等
 nav:
   - 首页: index.md
-  - 指南: guide.md
+  - 学习资源: guide.md
+  - 学习资料:                          # 另一个一级目录
+    - 生理: study/notes.md
+    - 生化: study/postgraduate.md
+    - 病理: study/postgraduate.md
+    - 微生物: study/postgraduate.md
+    - 免疫: study/postgraduate.md
+    - 药理: study/postgraduate.md
+    - 病理生理: study/postgraduate.md
+    - 诊断: study/postgraduate.md
+    - 内科: study/postgraduate.md
+    - 外科: study/postgraduate.md
+    - 妇科: study/postgraduate.md
+    - 儿科: study/postgraduate.md
+
+  - 新生指引:                          
+    - 校园地图: guide/map.md
+    - 宿舍指南: guide/dorm.md
+
+  - 关于: about.md
+
+copyright: 宁夏医科大学百科全书。联系我：justin_kong@qq.com

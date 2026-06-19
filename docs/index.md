@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# 欢迎来到宁医百科  Welcome to visit nxmu-wiki
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## 关于宁医百科
+宁夏医科大学百科全书是由宁夏医科大学在校学生自主发起并维护的校园信息服务平台。宁医百科旨在为全校学生提供全面、实用、及时的校园生活与学习指引，帮助各年级学生快速适应校园环境、高效利用教学资源、丰富课余文化生活等。
+如果你对此项目感兴趣并愿意帮助完善他，欢迎联系我：justin_kong@qq.com
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 免责声明
+    本网站充分尊重转载文章之作者的著作权等知识产权。本网站有部分内容来自互联网，如无意中侵犯了哪个媒体、公司、企业或个人等的知识产权，请及时向本网站提出书面权利通知，并提供身份证明、权属证明及详细侵权情况证明。本网站在收到上述法律文件后，将会尽快移除被控侵权内容。
+    本网站郑重提醒访问者：请在转载、上传或者下载有关作品时务必尊重该作品的版权、著作权。
+    
